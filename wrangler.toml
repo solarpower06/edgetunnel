@@ -7,5 +7,3 @@ keep_vars = true
 #binding = "KV"			#KV绑定名默认不可修改
 
 #id = ""				#KV数据库id
-# wrangler.toml
-name = 'edgetunnel123'
